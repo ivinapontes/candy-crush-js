@@ -1,9 +1,15 @@
-candy crush / frozen free fall
+# candy crush / frozen free fall
 
-- model only
-	- grid, pieces, exploding rows
-- game 
-	- points, start/end
-- 2 players
-- sprites
-- special pieces
+
+1. model only
+	- grid, pieces, movement, key input, line explosion
+
+2. game 
+	- points, start/end, menu
+
+3. sprites
+
+4. networking
+        - two players remotely
+
+5. special pieces
