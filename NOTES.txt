@@ -1,0 +1,9 @@
+candy crush / frozen free fall
+
+- model only
+	- grid, pieces, exploding rows
+- game 
+	- points, start/end
+- 2 players
+- sprites
+- special pieces
